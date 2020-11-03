@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>입력창 만들기</title></head>
+<body>
+<h3>text를 이용</h3>
+<input type="text" name="100" size="20" maxlength="10" value="kim"><p>
+<h3>password를 이용</h3>
+<input type="password" name="pwd" size="20" maxlength="10">
+<!-- FORM태그, NAME:폼에 이름을 붙여줌 -->
+<!-- METHOD:폼의 전송하는 방식을 정함, 1.POST:본문에데이터를 담아전송 ,2.GET:주소를 이용한 전송 -->
+<!-- ACTION태그 =값이 있을땐 정의된위치로 전송, ACTION태그가 없을땐 자기자신페이에 전송  -->
+<!-- FORM의 대표 태그 > 1.<INPUT> 2.<SELECT> 3.<TEXTAREA>-->
+<!-- <INPUT> -->
+
+</body>
+</html>

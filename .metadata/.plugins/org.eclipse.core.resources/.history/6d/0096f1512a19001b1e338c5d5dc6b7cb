@@ -1,0 +1,23 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<HTML>
+<HEAD><TITLE>Ç¥¸¸µé±â 2Åº</TITLE></HEAD>
+<TABLE BORDER="1" ALIGN="LEFT" CELLSPACING="10">
+<!-- CELLSPACING Àº Ã¹Å×µÎ¸®¿Í ¹®ÀÚ°¡ µé¾î°£ Å×µÎ¸® °£°ÝÂ÷  -->
+<CAPTION ALIGN="TOP">Ç¥¸¸µé±â 2Åº</CAPTION>
+<!-- Ç¥ Á¦¸ñÀº ÇØ´ç TABLE ¹Ù·Î ¹Ø¿¡ ÅÂ±×´Þ±â -->
+<TR><TD>ºÀ´ó1<TD>ºÀ´ó2</TR>
+<TR><TD>ºÀ´ó3<TD>ºÀ´ó4</TR>
+</TABLE><P>
+
+<TABLE BORDER="1" ALIGN="RIGHT" CELLPADDING="20" >
+<!-- CELLPADDING Àº Å×µÎ¸®¿Í ±ÛÀÚ»çÀÌ °ø°£ÀÌ ³Ð¾îÁø´Ù -->
+<TR><TD>ºÀ´ó1<TD>ºÀ´ó2</TR>
+<TR><TD>ºÀ´ó3<TD>ºÀ´ó4</TR>
+</TABLE><P>
+
+<TABLE BORDER ="1" BGCOLOR="RED">
+<TR><TD>ºÀ´ó1<TD>ºÀ´ó2</TR>
+<TR><TD>ºÀ´ó3<TD>ºÀ´ó4</TR>
+</TABLE>
+</HTML>

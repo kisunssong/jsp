@@ -1,0 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<HTML>
+<HEAD><TITLE>바탕화면 만들어볼꺼야</TITLE></HEAD>
+<BODY>
+<IMG SRC="E:\javajsp\test\src\let.jpg" WIDTH="20%" HSPACE="10">레쓰비
+<IMG SRC="E:\javajsp\test\src\let.jpg" WIDTH="20%" HSPACE="50">레쓰비
+</BODY>
+
+</HTML>

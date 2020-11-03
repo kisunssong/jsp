@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<body>
+자바스크립트 예문입니다<BR>
+<script language="JAVASCRIPT">
+document.write("안녕하세요")
+<!-- -->
+</script>
+
+<script type="text/javascript">
+alert("행복하세요")
+<!--경고 메시지 박스(행복하세요) 생성-->
+</script>
+
+</body>
+</html>

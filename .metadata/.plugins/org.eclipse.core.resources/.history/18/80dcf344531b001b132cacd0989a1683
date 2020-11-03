@@ -1,0 +1,24 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>테이블 생성 기초</title></head>
+<body>
+<table border="1" bordercolor="red">
+	<thead>
+		<tr>
+			<th>점검장소</th><th>차종</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+		</tr>	
+	</tbody>
+	<tfoot>
+		<tr>
+			<td></td>
+		</tr>
+	</tfoot>
+</table>
+</body>
+</html>

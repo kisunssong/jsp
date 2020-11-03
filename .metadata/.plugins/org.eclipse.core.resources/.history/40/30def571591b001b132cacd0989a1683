@@ -1,0 +1,33 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>테이블 생성 기초</title></head>
+<body>
+<table border="1" bordercolor="red" width="500">
+	<thead>
+		<tr>
+			<th>점검장소</th><th colspan="2">차종</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>송기선</td><td>34</td><td rowspan="2">병점</td><td>은하수빌</td>
+		</tr>
+		<tr>
+			<td>김수진</td><td>35</td><td>은하수빌</td>
+		</tr>
+		<tr>
+			<td>신성수</td><td>32</td><td rowspan="2">서울</td><td>신림빌</td>
+		</tr>
+		<tr>
+			<td>장훈</td><td>33</td><td>신림빌</td>
+		</tr>
+		<tr>
+			<td>권순규</td><td rowspan="2">34</td><td rowspan="2">동탄</td><td rowspan="2">동탄빌</td>
+		</tr>
+		<tr>
+			<td>김근택</td><td>34</td>
+		</tr>
+</table>
+</body>
+</html>
