@@ -23,30 +23,30 @@
 <!-- CAPTION «•¿«¡¶∏Ò , ALIGN ¿ßƒ° TOP ¿ßø° ¡¶∏Ò¡ˆ¡§ -->
 <TR><TD>¿Ã∏ß<TD>¡÷º“</TR>
 <!-- «•ø° «—ƒ≠ «—ƒ≠ µÈæÓ∞£¥Ÿ -->
-<TR><TD>1<TD>∞Ê±‚µµ </TR>
+<TR><TD>∫¿¥Û<TD>∞Ê±‚µµ »≠º∫Ω√ ∫¥¡°</TR>
 </TABLE><P>
 
 <TABLE BORDER="1" WIDTH="200">
 <!-- WIDTH ¿¸√º ≥–¿Ã 200«»ºø -->
-<TR><TD>1<TD>2</TR>
-<TR><TD>3<TD>4</TR>
+<TR><TD>∫¿¥Û1<TD>∫¿¥Û2</TR>
+<TR><TD>∫¿¥Û3<TD>∫¿¥Û4</TR>
 </TABLE><P>
 
 <TABLE BORDER="1" WIDTH="50%">
 <!-- WIDTH ¿¸√º ≥–¿Ã 50%¬˜¡ˆ -->
-<TR><TD>1<TD>2</TR>
-<TR><TD>3<TD>4</TR>
+<TR><TD>∫¿¥Û1<TD>∫¿¥Û2</TR>
+<TR><TD>∫¿¥Û3<TD>∫¿¥Û4</TR>
 </TABLE><P>
 
 <TABLE BORDER="1" HEIGHT="100">
 <!-- HEIGHT ¿¸√º ≥Ù¿Ã 100«»ºø (¿¸√º≈©±‚ % ¡ˆ¡§∞°¥…)-->
-<TR><TD>1<TD>2</TR>
-<TR><TD>3<TD>4</TR>
+<TR><TD>∫¿¥Û1<TD>∫¿¥Û2</TR>
+<TR><TD>∫¿¥Û3<TD>∫¿¥Û4</TR>
 </TABLE><BR>
 
 <TABLE BORDER="1" WIDTH="300" ALIGN="CENTER">
 <!-- WIDTH ¿¸√º≥Ù¿Ã 300«»ºøø° ALIGN ¡ﬂæ”ø° «•¿ßƒ°¡ˆ¡§(LEFT,CENTER,RIGHT) -->
-<TR><TD>1<TD>2</TR>
-<TR><TD>3<TD>4</TR>
+<TR><TD>∫¿¥Û1<TD>∫¿¥Û2</TR>
+<TR><TD>∫¿¥Û3<TD>∫¿¥Û4</TR>
 </TABLE>
 </HTML>
