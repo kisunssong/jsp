@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script language="javascript">
+document.write("안녕하세요?")
+</script>
+
+<script type="text/javascript">
+alert("1번줄 문장입니다.\n2번줄 문장입니다.")
+</script>
+</head>
+</html>

@@ -1,9 +1,0 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<HTML>
-<HEAD><TITLE>Ç¥¸¸µé±â 2Åº</TITLE></HEAD>
-<TABLE BORDER="1" ALIGN="LEFT" CELLSPACING="10">
-<TR><TD>ºÀ´ó1<TD>ºÀ´ó2</TR>
-<TR><TD>ºÀ´ó3<TD>ºÀ´ó4</TR>
-</TABLE><P>
-</HTML>

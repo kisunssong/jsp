@@ -1,8 +1,0 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<HTML>
-<HEAD><TITLE>하이퍼 텍스트</TITLE></HEAD>
-<BODY>
-<A HREF="http://www.naver.com">네이버</A>
-</BODY>
-</HTML>

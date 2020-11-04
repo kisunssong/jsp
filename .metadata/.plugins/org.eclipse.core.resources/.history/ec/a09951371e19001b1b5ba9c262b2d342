@@ -1,7 +1,0 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<HTML>
-<HEAD><TITLE>바탕화면 만들어볼꺼야2</TITLE></HEAD>
-<BODY BACKGROUND="E:\javajsp\test\src\sam.jpg">
-</BODY>
-</HTML>

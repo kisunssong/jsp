@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<body>
+<B>확인 클릭 : true<br>
+<B>취소 를릭 : false<br>
+확인 취소 문장을 변경도 가능하며, true,false에 맞게 for문도 가능
+<script language="javascript">
+document.write(confirm("1번줄 문장입니다.\n2번줄 문장입니다."))
+</script>
+</head>
+</body>
+</html>

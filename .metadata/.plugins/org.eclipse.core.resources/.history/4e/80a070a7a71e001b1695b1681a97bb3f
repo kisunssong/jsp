@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<body>
+<B>입력하는 값을 숫자나 문자열로 표현해서 if else 표현 가능</B><br>
+<script language="javascript">
+
+
+if(confirm("맞은면 확인, 틀리면 취소"))
+	document.wirte("정답!!")
+else
+	document.wirte("오답!!")
+</script>
+</head>
+</body>
+</html>

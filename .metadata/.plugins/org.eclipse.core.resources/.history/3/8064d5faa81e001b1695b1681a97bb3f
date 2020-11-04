@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<body>
+<script language="javascript">
+with(document) {
+	write("document반복사용 번거로움을"+"<br>")
+	write("줄여주었습니다."+"<br>")
+	write("with(document){}하고 아래 write를 늘리세요")
+}
+</script>
+</head>
+</body>
+</html>
