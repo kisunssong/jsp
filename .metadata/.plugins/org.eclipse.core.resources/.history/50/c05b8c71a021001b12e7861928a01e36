@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script type="text/javascript">
+function test() {
+	qu=confirm() {
+		if(qu == true) {
+			document.write("당신은 성인 입니다.")
+		}else {
+			document.write("당신은 성인이 아닙니다.")
+		}
+	}
+}
+</script>
+</head>
+<body>
+<h2>새 윈도우 열기</h2>
+<input type="button" value="버튼을누르세요" onClick=test()>
+</body>
+</html>

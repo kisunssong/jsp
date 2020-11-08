@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script language="javascript">
+function openwin() {
+	window.open("file:///E:/jsp/test/src/test.html","closewin","width=200 height=200")
+}
+</script>
+</head>
+<body>
+<h2>새 윈도우 열기</h2>
+<A href="javascript:openwin()">새창 열기</A>
+</body>
+</html>

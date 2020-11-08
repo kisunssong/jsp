@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script type="text/javascript" charset="utf-8">
+function add1() {
+	var a1=prompt("첫번쨰 숫자 입력: ")
+}
+function add2() {
+	var a2=prompt("두번쨰 숫자 입력: ")
+}
+a1=parseInt(a1)
+a2=parseInt(a2)
+function sum() {
+	alert("합계: "+(a1+a2))
+}
+</script>
+</head>
+<body>
+<form>
+<input type="button" value="1" onClick="add1()">
+<input type="button" value="2" onClick="add2()">
+<input type="button" value="3" onClick="sum()">
+</form>
+</body>
+</html>

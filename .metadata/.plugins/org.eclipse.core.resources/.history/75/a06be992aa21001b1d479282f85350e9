@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<body>
+<script language="javascript">
+function add() {
+	a = prompt("첫번째 수 입력: ")
+}
+function add2() {
+	b = prompt("두번째 수 입력: ")
+}
+function sum() {
+	a=parseInt(a)+b=parseInt(b)
+	alert("합계: "+(a+b))
+}
+</script>
+</head>
+</body>
+</html>
