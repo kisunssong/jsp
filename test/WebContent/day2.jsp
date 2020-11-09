@@ -24,13 +24,11 @@ document.write("B"+"<br>")
 </script>
 </head>
 <body>
-<<<<<<< HEAD
 
 <script type="text/javascript">
 
 </script>
 
-=======
 <script language="javascript">
 function add() {
 	a = prompt("첫번째 수 입력: ")
@@ -49,6 +47,5 @@ function sum() {
 <input type="button" value="합계보기" onClick="sum()"> 
 </form>
 </head>
->>>>>>> 89707bcc5f35ef740362113df62ef425a2e4e7b6
 </body>
 </html>

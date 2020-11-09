@@ -1,10 +1,10 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=89707bcc5f35ef740362113df62ef425a2e4e7b6
 eclipse.preferences.version=1
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true
-<<<<<<< HEAD
 org.eclipse.jdt.ui.formatterprofiles.version=20
-=======
-org.eclipse.jdt.ui.formatterprofiles.version=19
 spelling_ignore_ampersand_in_properties=true
 spelling_ignore_digits=true
 spelling_ignore_java_strings=true
@@ -14,7 +14,6 @@ spelling_ignore_sentence=true
 spelling_ignore_single_letters=true
 spelling_ignore_upper=true
 spelling_ignore_urls=true
->>>>>>> 89707bcc5f35ef740362113df62ef425a2e4e7b6
 spelling_locale_initialized=true
 spelling_user_dictionary_encoding=
 useAnnotationsPrefPage=true

@@ -1,3 +1,6 @@
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=89707bcc5f35ef740362113df62ef425a2e4e7b6
 applyBackground=false
 approved.defs.file.last.changed.time=1599254320000
 codemix.dont.show.upsell.until=1605793035325
@@ -5,11 +8,7 @@ configurationInstallLocation=/E\:/java\uAE30\uCD08\uC218\uC5C5/eclipse/
 eclipse.preferences.version=1
 elearning.dont.show.until=1604844065409
 iconcolormode=primary
-last.download.attempt.time=1603883432470
-<<<<<<< HEAD
-lastConfiguration=1604634789178
-=======
-lastConfiguration=1604829336365
->>>>>>> 89707bcc5f35ef740362113df62ef425a2e4e7b6
+last.download.attempt.time=1604881892488
+lastConfiguration=1604881874261
 newinstall=true
 workbench.theme=Dark Gray
