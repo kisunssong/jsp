@@ -2,10 +2,32 @@
     pageEncoding="EUC-KR"%>
 <html>
 <head>
-<body>
-<script language="javascript">
-
+<script type="text/javascript">
+var kor,eng,met,sum,avg
+kor=prompt("국어점수: ")
+eng=prompt("영어점수: ")
+met=prompt("수학점수: ")
+kor=parseInt(kor)
+eng=parseInt(eng)
+met=parseInt(met)
+sum=kor+eng+met
+avg = sum/3.0
+avg = Math.round(avg*100)/10
+document.write(avg)
+if(avg >= 90){
+document.write("A"+"<br>")
+}
+else if(avg >= 80) {
+document.write("B"+"<br>")
+}
+		
 </script>
 </head>
+<body>
+
+<script type="text/javascript">
+
+</script>
+
 </body>
 </html>

@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script type="text/javascript">
+function test(){
+	var name,age
+	test(){
+	}
+	test(name,age) {
+		this.name=name
+		this.age=age
+	}
+	info() {
+		document.write("이름: "+name+"나이: "+age)
+	}
+}
+</script>
+<body>
+
+<script language="javascript">
+test a = new test("송기선",34)
+document.write(a)
+</script>
+</head>
+</body>
+</html>
