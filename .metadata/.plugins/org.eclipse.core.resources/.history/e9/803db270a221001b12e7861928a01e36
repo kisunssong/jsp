@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script type="text/javascript">
+function n() {
+	
+}
+</script>
+</head>
+
+<body>
+<script type="button" value="1" onClick="add1()">
+<script type="button" value="2" onClick="add2()">
+<script type="button" value="3" onClick="sum()">
+</body>
+</html>

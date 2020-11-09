@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+<script type="text/javascript">
+function add1() {
+	var a1=prompt("첫번째 값 입력: ")
+}
+function add2() {
+	var a2=prompt("��踰�夷� �レ��瑜� ���ν���몄��: ")
+}
+a1=parseInt(a1)
+a2=parseInt(a2)
+function sum() {
+	alert("�⑷�: "+(a1+a2))
+}
+</script>
+</head>
+<body>
+<form>
+<input type="button" value="1踰� �レ�� ����" onClick="add1()">
+<input type="button" value="2踰� �レ�� ����" onClick="add2()">
+<input type="button" value="�⑷�蹂닿린" onClick="sum()">
+</form>
+</body>
+</html>

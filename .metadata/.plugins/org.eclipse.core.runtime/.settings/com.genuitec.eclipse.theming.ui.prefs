@@ -6,6 +6,10 @@ eclipse.preferences.version=1
 elearning.dont.show.until=1604844065409
 iconcolormode=primary
 last.download.attempt.time=1603883432470
+<<<<<<< HEAD
 lastConfiguration=1604634789178
+=======
+lastConfiguration=1604829336365
+>>>>>>> 89707bcc5f35ef740362113df62ef425a2e4e7b6
 newinstall=true
 workbench.theme=Dark Gray
