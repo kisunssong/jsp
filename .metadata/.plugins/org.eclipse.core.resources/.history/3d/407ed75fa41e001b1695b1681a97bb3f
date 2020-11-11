@@ -1,9 +1,0 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
-<html>
-<head>
-<script language="javascript">
-document.write(confirm("1번줄 문장입니다.\n2번줄 문장입니다."))
-</script>
-</head>
-</html>
