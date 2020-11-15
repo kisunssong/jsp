@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+    
+<!-- action의 위치를 지정하지 않으면 자신의 페이지로 데이터가 넘어간다 -->
+<form name="f" method="post">
+  수를 입력: <input type="text" name="su"><input type="submit" value="전송">
+</form>
+
+<%
+	int num = Integer.parseInt(request.getParameter("su"));
+	int sum = sum(num);
+	
+	out.println("1~"+num+"까지의 합: "+sum);
+%>
+<% 	public int sum(int num) {
+		for(int i=1; i<=num; i++) {
+			sum += i;
+		}
+		return sum;
+	}
+%>

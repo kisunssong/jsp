@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>table기초2</title>
+<body>
+<div align="center">
+<tabel border="1">
+  <thead>
+    <tr>
+      <th></th><th>앨범커버</th><th>가수</th><th>앨범 제목</th><th>발매일</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</tabel>
+</div>
+</body>
+</head>
+</html>

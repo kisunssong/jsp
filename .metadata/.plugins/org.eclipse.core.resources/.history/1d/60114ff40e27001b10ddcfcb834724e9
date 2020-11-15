@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+    
+
+<% int num = Integer.parseInt(request.getParameter("su"));
+	int sum = sum(num);
+	out.println("1 ~"+num+"까지의 합: "+sum);
+%>
+
+<%!
+public int sum (int num) {
+	int sum = 0;
+	for(int i=1; i<=num; i++) {
+		sum += i;
+	}
+	return sum;
+}
+%>
+<!-- request.getParameter:name, form이 보낸 su(입력값은 무조건 String)를  
+	int타입 num에 대입, int sum에다가 sum메서드(num)인자 값을 주고
+	아래 메서드 sum이 받아서 반복문 처리해서 sum을 리턴
+	
+	중요! > 표현식: 
+	     > 스크립트릿:
+	     > 선언부: 새롭게 선언을 할때 메서드 선언 <%! %>-->
+	     
+	

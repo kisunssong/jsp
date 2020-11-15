@@ -1,0 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!--  page지시어 -->
+<html>
+<head>
+  <title>첫번째 예제</title>
+</head>
+</html>

@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>table±‚√ 2</title>
+<body>
+<div align="center">
+<tabel border="1">
+  <thead>
+  </thead>
+  <tbody>
+  </tbody>
+  <tfood>
+  </tfood>
+</tabel>
+</div>
+</body>
+</head>
+</html>

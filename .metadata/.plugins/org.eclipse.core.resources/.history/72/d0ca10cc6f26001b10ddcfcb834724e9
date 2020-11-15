@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+  <title>include지시어</title>
+</head>
+<body>
+  <table boedr="1">
+    <tr>
+	  <th>이름</th>
+	  <th>국어</th>
+	</tr>
+	<%@ include file="test2.jsp" %>
+	</table>
+</body>
+</html>

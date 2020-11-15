@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!--  page지시어 -->
+<html>
+<head>
+  <title>첫번째 예제</title>
+</head>
+<body>
+  <h1>Hell JSP</h1>
+  <h2>Hell JSP</h2>
+  <h3>Hell JSP</h3>
+  <h4>Hell JSP</h4>
+  <h5>Hell JSP</h5>
+  <h6>Hell JSP</h6>
+</body>
+</html>

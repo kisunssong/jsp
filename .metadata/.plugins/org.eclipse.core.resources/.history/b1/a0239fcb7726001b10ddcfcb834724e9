@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head>
+  <title>값입력</title>
+</head>
+<body>
+<!-- action의 위치를 지정하지 않으면 자신의 페이지로 데이터가 넘어간다 -->
+<form name="f" method="post">
+  수를 입력: <input type="text" name="su"><input type="submit" value="전송">
+</form>
+</body>
+</html>

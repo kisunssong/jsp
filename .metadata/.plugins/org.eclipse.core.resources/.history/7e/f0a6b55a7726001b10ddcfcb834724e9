@@ -1,0 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<form name="f" method="post">
+  수를 입력: <input type="text" name="su"><input type="submit" value="전송">
+</form>

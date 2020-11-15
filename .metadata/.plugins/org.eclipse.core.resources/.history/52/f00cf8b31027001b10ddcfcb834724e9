@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<html>
+<head><title>table기초2</title>
+<body>
+<div align="center">
+<table border="1">
+  <thead>
+    <tr>
+      <th></th><th>앨범커버</th><th>가수</th><th>앨범 제목</th><th>발매일</th>
+    </tr>
+      <td type="radio"><td></td><td>러블리즈</td><td>Lovelyz 4th</td><td>2018-04-23</td>
+  </thead>
+  <tbody>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
+</div>
+</body>
+</head>
+</html>

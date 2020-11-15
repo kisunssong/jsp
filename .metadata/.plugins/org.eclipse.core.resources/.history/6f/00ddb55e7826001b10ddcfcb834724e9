@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+    
+
+	<!-- int num = Integer.parseInt(request.getParameter("su"));
+	int sum = sum(num);
+	
+	out.println("1~"+num+"까지의 합: "+sum);
+	-->
+
+<% 
+int num = request.getParameter("su");
+int change = Integer.parseInt(num);
+public int sum (int num){
+	for(int i=1; i<=num; i++) {
+		sum += i;
+	}
+	return sum;
+}
+%>
