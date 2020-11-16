@@ -2,6 +2,7 @@ commentBorder=\#aaaa00 | null | false | false | false | false
 commentText=\#aaaa00 | null | false | false | false | false
 content_assist_proposals_foreground=255,255,255
 eclipse.preferences.version=1
+newFileTemplateName=New HTML File (5)
 tagAttributeEquals=\#ffffff | null | false | false | false | false
 tagAttributeName=\#ff40ff | null | false | false | false | false
 tagAttributeValue=\#00d500 | null | false | true | false | false
